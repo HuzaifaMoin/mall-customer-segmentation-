@@ -1,4 +1,3 @@
-# mall-customer-segmentation-
 # Mall Customer Segmentation using KMeans
 
 ## Overview
